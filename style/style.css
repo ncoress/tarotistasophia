@@ -37,7 +37,9 @@ body{
 }
 
 
-
+#foto-cartas{
+    padding-top: 10%;
+}
 
 
 #foto-perfil{
@@ -286,7 +288,10 @@ label {
 
 @media only screen and (max-width:776px){
     
-
+    #foto-cartas{
+        width: 90%;
+        height: 40%;
+    }
     .logo{
         font-size: 4vw;
     }
